@@ -1,4 +1,4 @@
-<h1 align="center">💊 Prasoon Choudhary — 250mg of Code, Taken as Needed</h1>
+<img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/5b060b18-98e4-4d29-b566-d7b7cbaf09ef" /><img width="750" height="1000" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /><h1 align="center">💊 Prasoon Choudhary — 250mg of Code, Taken as Needed</h1>
 
 <p align="center">
   <i>Relieves bugs. Reduces downtime. May cause side effects like shipped features.</i><br/>
@@ -10,8 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx1ZDZvczFkOTVqYXFmN2kzb3BiYzU3cWx2dTgxZmFvcGx2bTBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQXJNBg2OA1mseam8S/giphy.gif" width="260" alt="taking medicine gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlhcjBpczluemc3NXl3dW03dzg1ejlkcHJ0ZHJucTl1MXg0Ymg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3XX8drMETqaLmMxtM/giphy.gif" width="300" alt="take your meds gif" />
 </p>
+
+
+<!-- 🖼️ Want to add your own image/meme here instead? Just swap the <img> tag above,
+     e.g. <img src="./assets/your-image.png" width="300" /> after uploading it to
+     an /assets folder in this repo. -->
+
 
 ---
 
@@ -19,7 +25,7 @@
 
 ```
 Name:         Prasoon Choudhary
-Alias:        "Ibuprofen" (ask around, it stuck)
+Alias:        "Ibuprofen"
 Condition:    Chronic Curiosity, Acute Debugging Syndrome
 Program:      B.E. Computer Science Engineering, BMS College of Engineering
 Year:         3rd Year
