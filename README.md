@@ -1,11 +1,16 @@
-<h1 align="center">💊 Prasoon — 250mg of Code, Taken as Needed</h1>
+<h1 align="center">💊 Prasoon Choudhary — 250mg of Code, Taken as Needed</h1>
 
 <p align="center">
-  <i>Relieves bugs. Reduces downtime. May cause side effects like shipped features.</i>
+  <i>Relieves bugs. Reduces downtime. May cause side effects like shipped features.</i><br/>
+  <b>AKA "Ibuprofen"</b> — because apparently I'm the tech pain-killer everyone needs 🤕➡️💊
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Dispensing+clean+code+since+day+one;CS+Engineering+%40+BMS+College+of+Engineering;Currently+treating%3A+bugs%2C+deadlines%2C+bad+APIs;Dosage%3A+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Dispensing+clean+code+since+day+one;CS+Engineering+%40+BMS+College+of+Engineering;Currently+treating%3A+bugs%2C+deadlines%2C+bad+APIs;Do+you+have+any+Ibuprofen%3F+I+have+a+headache;Dosage%3A+one+commit+at+a+time" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmx1ZDZvczFkOTVqYXFmN2kzb3BiYzU3cWx2dTgxZmFvcGx2bTBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hQXJNBg2OA1mseam8S/giphy.gif" width="260" alt="taking medicine gif" />
 </p>
 
 ---
@@ -13,13 +18,14 @@
 ## 📋 Patient Information
 
 ```
-Name:         Prasoon
+Name:         Prasoon Choudhary
+Alias:        "Ibuprofen" (ask around, it stuck)
 Condition:    Chronic Curiosity, Acute Debugging Syndrome
 Program:      B.E. Computer Science Engineering, BMS College of Engineering
 Year:         3rd Year
 Location:     Bengaluru, India
 Status:       Actively seeking Software Engineering internships
-Symptoms:     Loads of curiosity, occasional 3 AM debugging sessions
+Symptoms:     Loads of curiosity, occasional debugging sessions
 Prescribed:   1x GitHub profile daily, refill as needed
 ```
 
