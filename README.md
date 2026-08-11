@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlhcjBpczluemc3NXl3dW03dzg1ejlkcHJ0ZHJucTl1MXg0Ymg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m3XX8drMETqaLmMxtM/giphy.gif" width="300" alt="take your meds gif" />
+  <img src="https://media.makeameme.org/created/take-your-medicine-523554362f.jpg" width="270" height="315" alt="take your meds gif" />
+  <img src="https://64.media.tumblr.com/e8313ed13f34bb2b8cde91eacc50e8a6/tumblr_pvub8ejWGi1relg8bo1_540.gif" width="270" height="315" alt="taking your meds gif" />
 </p>
 
 
@@ -95,10 +96,7 @@ A personal project for tracking daily habits and study routines — keeping cons
 
 ## 📊 Dosage Report (GitHub Stats)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prazz10&show_icons=true&theme=radical&hide_border=true&title_color=E63946&icon_color=E63946" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prazz10&layout=compact&theme=radical&hide_border=true&title_color=E63946" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prazz10&theme=radical&hide_border=true&ring=E63946&fire=E63946" />
