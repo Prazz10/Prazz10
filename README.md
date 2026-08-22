@@ -1,4 +1,4 @@
-<p align="center"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /><img width="300" height="300" alt="image" src="https://media.tenor.com/Dax_ALglFq4AAAAM/mario-movie-luigi.gif" /><p align="center"><img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /></p>
+<p align="center"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /><img width="300" height="300" alt="image" src="https://media.tenor.com/Dax_ALglFq4AAAAM/mario-movie-luigi.gif" />
 
 <h1 align="center">Prasoon Choudhary</h1>
 <p align="center">Computer Science Engineering Student · Bengaluru, India</p>
@@ -29,7 +29,7 @@ I like the analogy: ibuprofen is a dependable, effective solution when something
 
 ---
 
-## Profile
+## Medicine Info
 
 ```
 Name:         Prasoon Choudhary
