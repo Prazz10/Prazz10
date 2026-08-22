@@ -1,17 +1,19 @@
 <p align="center"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /><img width="300" height="300" alt="image" src="https://media.tenor.com/Dax_ALglFq4AAAAM/mario-movie-luigi.gif" /><p align="center"><img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b1b16f7b-5b4b-47f2-8a02-166900117f5c" /></p>
 
 <h1 align="center">Prasoon Choudhary</h1>
-<p align="center">CS Engineering student · Bengaluru, India</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXpsdnY2eG4xZHM1eXloaHNuNThsaXkwd21hMWZmZ21hMnc4NzBpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dPiztXlKcBykiYk4eI/giphy.gif" width="280" alt="taking pills gif" />
-</p>
-
-<!-- 🖼️ Want to add your own image/meme here instead? Just swap the <img> tag above,
-     e.g. <img src="./assets/your-image.png" width="300" /> after uploading it to
-     an /assets folder in this repo. -->
+<p align="center">Computer Science Engineering Student · Bengaluru, India</p>
 
 ---
+
+## About Me
+
+I'm a third-year Computer Science Engineering student at BMS College of Engineering, Bengaluru, with a focus on backend development, full-stack applications, and applied machine learning. My work spans building production-style systems end to end — from API design and database architecture to frontend interfaces — with a particular interest in security-conscious, compliance-aware engineering.
+
+I primarily work with Python (FastAPI) and JavaScript/Node.js on the backend, React and React Native on the frontend, and PostgreSQL/Supabase for data. I'm currently learning the fundamentals of quantitative finance using Python, alongside Java and Spring Boot, which are on my learning roadmap.
+
+Alongside coursework, I build independent and hackathon projects that address real-world problems — women's safety, banking compliance, and personal productivity — and explore machine learning through applied projects on Kaggle. I recently competed in the UCO Bank–PSB–IIT Kharagpur Hackathon, reaching the Top 20 nationally with a presentation in the finals held in Kolkata.
+
+I'm currently looking for opportunities where I can contribute as a Software Engineering intern.
 
 ### Why "Ibuprofen"?
 
@@ -19,15 +21,15 @@
 <summary>the story</summary>
 <br/>
 
-Ibuprofen is one of the most reliable painkillers out there — it works, and you can count on it. During JEE prep in 12th grade, I worked out the theoretical synthesis of ibuprofen on a question no one else in my batch could crack. A friend, fresh off watching *Oppenheimer*, joked that I'd "become Ibuprofen, the destroyer of pain," and the name stuck.
+During JEE preparation in 12th grade, I worked out the theoretical synthesis of ibuprofen on a question none of my batchmates could solve. A friend, having just watched *Oppenheimer*, joked that I'd "become Ibuprofen, the destroyer of pain," and the name stuck ever since.
 
-I like the analogy: just as ibuprofen is the go-to for pain, I try to be the one people turn to for fixing whatever's broken in a codebase.
+I like the analogy: ibuprofen is a dependable, effective solution when something's wrong — and that's how I try to approach engineering problems as well.
 
 </details>
 
 ---
 
-## Medicine Info
+## Profile
 
 ```
 Name:         Prasoon Choudhary
@@ -35,7 +37,7 @@ Alias:        Ibuprofen
 Program:      B.E. Computer Science Engineering, BMS College of Engineering
 Year:         3rd Year
 Location:     Bengaluru, India
-Status:       Looking for something productive
+Status:       Looking for something Productive
 ```
 
 ---
@@ -43,7 +45,14 @@ Status:       Looking for something productive
 ## Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prazz10/Prazz10/main/assets/techstack.svg" alt="tech stack badges" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
 ---
@@ -55,14 +64,14 @@ Status:       Looking for something productive
 <td width="50%">
 
 ### SheRiff
-Women's safety mobile app — 13-screen app with SOS alerts, real-time location sharing, and guardian notifications over SMS/WhatsApp.
+Women's safety mobile app. A 13-screen application featuring SOS alerts, real-time location sharing, trip mode, evidence capture, and guardian notifications delivered over SMS and WhatsApp.
 `React Native` `Expo` `Node.js` `Supabase`
 
 </td>
 <td width="50%">
 
 ### SovaScan
-Banking security & compliance scanner — detects CVEs, hardcoded secrets, and misconfigurations, mapped to RBI, PCI-DSS, and ISO 27001 frameworks.
+Banking security and compliance scanner. Detects CVEs, hardcoded secrets, and misconfigurations, with findings mapped to RBI, PCI-DSS, and ISO 27001 frameworks. Presented at the UCO Bank–PSB–IIT Kharagpur Hackathon.
 `FastAPI` `React` `Vite` `Zustand`
 
 </td>
@@ -72,7 +81,7 @@ Banking security & compliance scanner — detects CVEs, hardcoded secrets, and m
 **Personal project:**
 
 ### Daymark
-Daily habit & study tracker — a personal project for tracking daily habits and study routines.
+Daily habit and study tracker built to keep personal routines consistent and measurable.
 `JavaScript`
 
 ---
